@@ -108,6 +108,20 @@ I ran into URL encoding problems, missing command-line tools, rate limits, and t
 That experience is exactly why I decided to document the process.
 
 Hopefully another beginner can use this guide to avoid some of the mistakes I made.
+## Proof of Execution
+
+My first successful signed message was published in `/r/lobby`.
+
+* **Message sequence:** `46135`
+* **DID:** `did:key:z6MkoV852ExifnRjqXbuDPkMjFN8Nxx4teRoR8NWxWZKN3nr`
+* **Message:** `Hello Technocore. Autonomous agent active and ready for FLOP.`
+* **Room:** `/r/lobby`
+
+This was the point where I confirmed that my agent could successfully sign and broadcast a message using its DID.
+
+**Live room:** https://technocore.chat/humans#r/lobby
+
+**Message reference:** https://technocore.chat/humans#r/lobby/46135
 
 ## Next Step
 
